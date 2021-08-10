@@ -19,6 +19,10 @@ public class HelloWorld {
     public static void main(String[] arg) {
         System.out.println(cheburek(new int[] { 30, 10, 0, 131, 11 }));
     }
+
+    public static void {
+
+    }
 }
 
 

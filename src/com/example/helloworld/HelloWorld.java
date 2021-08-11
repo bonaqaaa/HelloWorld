@@ -21,7 +21,7 @@ public class HelloWorld {
     }
 
     public static void kek() {
-        System.out.println("cheburek");
+        System.out.println("cheburek-lol");
     }
 }
 

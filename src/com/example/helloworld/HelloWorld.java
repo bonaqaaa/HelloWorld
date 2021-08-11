@@ -20,8 +20,8 @@ public class HelloWorld {
         System.out.println(cheburek(new int[] { 30, 10, 0, 131, 11 }));
     }
 
-    public static void {
-
+    public static void kek() {
+        System.out.println("cheburek");
     }
 }
 
